@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--声明bean-->
+    <!--
+       DI:给属性赋值
+       简单类型: java中的基本数据类型和String
+
+       1. set注入： spring调用类的set方法，通过set方法完成属性赋值
+          简单类型的set注入：
+          语法： <bean id="xxx" class="yyy">
+                   <property name="属性名" value="简单类型属性值"/>
+                   ...
+                </bean>
+
+    -->
+    <!--简单类型set注入-->
+    <bean id="myStudent" class="com.bjpowernode.ba01.Student">
+        <property name="name" value="李四"/><!--setName("李四")-->
+        <property name="age" value="22" /><!--setAge(22)-->
+        <property name="email" value="lisi@qq.com" /><!--setEmail("xxx)-->
+    </bean>
+
+    <!--声明日期类-->
+    <bean id="mydate" class="java.util.Date">
+        <property name="time" value="933295249276"/><!--setTime()-->
+    </bean>
+</beans>

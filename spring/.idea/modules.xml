@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-first/ch01-first.iml" filepath="$PROJECT_DIR$/ch01-first/ch01-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-di-xml/ch02-di-xml.iml" filepath="$PROJECT_DIR$/ch02-di-xml/ch02-di-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-di-anno/ch03-di-anno.iml" filepath="$PROJECT_DIR$/ch03-di-anno/ch03-di-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-ioc-homework/ch04-ioc-homework.iml" filepath="$PROJECT_DIR$/ch04-ioc-homework/ch04-ioc-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-aop-leadin/ch05-aop-leadin.iml" filepath="$PROJECT_DIR$/ch05-aop-leadin/ch05-aop-leadin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-aop-leadin1/ch06-aop-leadin1.iml" filepath="$PROJECT_DIR$/ch06-aop-leadin1/ch06-aop-leadin1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-aspectj-before/ch07-aspectj-before.iml" filepath="$PROJECT_DIR$/ch07-aspectj-before/ch07-aspectj-before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-aspectj-afterreturning/ch08-aspectj-afterreturning.iml" filepath="$PROJECT_DIR$/ch08-aspectj-afterreturning/ch08-aspectj-afterreturning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09-aspectj-around/ch09-aspectj-around.iml" filepath="$PROJECT_DIR$/ch09-aspectj-around/ch09-aspectj-around.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10-aspectj-afterthrowing/ch10-aspectj-afterthrowing.iml" filepath="$PROJECT_DIR$/ch10-aspectj-afterthrowing/ch10-aspectj-afterthrowing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11-aspectj-aftert/ch11-aspectj-aftert.iml" filepath="$PROJECT_DIR$/ch11-aspectj-aftert/ch11-aspectj-aftert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12-aspectj-pointcut/ch12-aspectj-pointcut.iml" filepath="$PROJECT_DIR$/ch12-aspectj-pointcut/ch12-aspectj-pointcut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13-aop-homework/ch13-aop-homework.iml" filepath="$PROJECT_DIR$/ch13-aop-homework/ch13-aop-homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14-spring-mybatis/ch14-spring-mybatis.iml" filepath="$PROJECT_DIR$/ch14-spring-mybatis/ch14-spring-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15-trans-sale/ch15-trans-sale.iml" filepath="$PROJECT_DIR$/ch15-trans-sale/ch15-trans-sale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch16-trans-anno/ch16-trans-anno.iml" filepath="$PROJECT_DIR$/ch16-trans-anno/ch16-trans-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17-aspectj-xml/ch17-aspectj-xml.iml" filepath="$PROJECT_DIR$/ch17-aspectj-xml/ch17-aspectj-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18-spring-web/ch18-spring-web.iml" filepath="$PROJECT_DIR$/ch18-spring-web/ch18-spring-web.iml" />
+    </modules>
+  </component>
+</project>

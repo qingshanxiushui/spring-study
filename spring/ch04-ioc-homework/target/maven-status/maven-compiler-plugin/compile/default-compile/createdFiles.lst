@@ -1,0 +1,6 @@
+com\bjpowernode\dao\impl\MySqlUserDao.class
+com\bjpowernode\service\UserSerivce.class
+com\bjpowernode\dao\impl\OracleDaoImpl.class
+com\bjpowernode\service\impl\UserSerivceImpl.class
+com\bjpowernode\dao\UserDao.class
+com\bjpowernode\domain\SysUser.class

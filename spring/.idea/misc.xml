@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch18-spring-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01-first/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02-di-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-ioc-homework/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03-di-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05aopleadin/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05-aop-leadin/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06-aop-leadin1/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07-aspectj-before/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08-aspectj-afterreturning/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09-aspectj-around/pom.xml" />
+        <option value="$PROJECT_DIR$/ch10-aspectj-afterthrowing/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11-aspectj-aftert/pom.xml" />
+        <option value="$PROJECT_DIR$/ch12-aspectj-pointcut/pom.xml" />
+        <option value="$PROJECT_DIR$/ch13aophomework/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14-spring-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/ch13-aop-homework/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15-trans-sale/pom.xml" />
+        <option value="$PROJECT_DIR$/ch16-trans-anno/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17-aspectj-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18-spring-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

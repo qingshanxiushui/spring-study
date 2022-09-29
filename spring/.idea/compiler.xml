@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch01-first" />
+        <module name="ch02-di-xml" />
+        <module name="ch03-di-anno" />
+        <module name="ch04-ioc-homework" />
+        <module name="ch05-aop-leadin" />
+        <module name="ch06-aop-leadin1" />
+        <module name="ch07-aspectj-before" />
+        <module name="ch08-aspectj-afterreturning" />
+        <module name="ch09-aspectj-around" />
+        <module name="ch10-aspectj-afterthrowing" />
+        <module name="ch11-aspectj-aftert" />
+        <module name="ch12-aspectj-pointcut" />
+        <module name="ch13-aop-homework" />
+        <module name="ch14-spring-mybatis" />
+        <module name="ch15-trans-sale" />
+        <module name="ch16-trans-anno" />
+        <module name="ch17-aspectj-xml" />
+        <module name="ch18-spring-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01-first" target="1.8" />
+      <module name="ch02-di-xml" target="1.8" />
+      <module name="ch03-di-anno" target="1.8" />
+      <module name="ch04-ioc-homework" target="1.8" />
+      <module name="ch05-aop-leadin" target="1.8" />
+      <module name="ch06-aop-leadin1" target="1.8" />
+      <module name="ch06-aop-leadin2" target="1.8" />
+      <module name="ch06-dynamic-sql" target="1.8" />
+      <module name="ch07-aspectj-before" target="1.8" />
+      <module name="ch08-aspectj-afterreturning" target="1.8" />
+      <module name="ch09-aspectj-around" target="1.8" />
+      <module name="ch10-aspectj-afterthrowing" target="1.8" />
+      <module name="ch11-aspectj-aftert" target="1.8" />
+      <module name="ch12-aspectj-pointcut" target="1.8" />
+      <module name="ch13-aop-homework" target="1.8" />
+      <module name="ch14-spring-mybatis" target="1.8" />
+      <module name="ch15-trans-sale" target="1.8" />
+      <module name="ch16-trans-anno" target="1.8" />
+      <module name="ch17-aspectj-xml" target="1.8" />
+      <module name="ch18-spring-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

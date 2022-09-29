@@ -1,0 +1,9 @@
+com\bjpowernode\dao\GoodsDao.class
+com\service\AppService.class
+com\bjpowernode\service\BuyGoodsService.class
+com\bjpowernode\dao\SaleDao.class
+com\bjpowernode\service\impl\BuyGoodsServiceImpl.class
+com\bjpowernode\entity\Goods.class
+com\bjpowernode\entity\Sale.class
+com\bjpowernode\excetion\NotEnougthException.class
+com\order\service\OrderServlce.class
